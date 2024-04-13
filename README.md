@@ -14,7 +14,7 @@ To run the algorithm, follow these steps:
    ```bash
    pip install matplotlib
 
-
+## Path of a point Robot from Start and Goal point
 ![Sample Result](https://github.com/kalavagunta-vamshi/DIjkstra-path-planning/raw/main/path.jpg)
 
 
