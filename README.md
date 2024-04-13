@@ -17,5 +17,7 @@ To run the algorithm, follow these steps:
 ## Path of a point Robot from Start and Goal point
 ![Sample Result](https://github.com/kalavagunta-vamshi/DIjkstra-path-planning/raw/main/path.jpg)
 
+(https://github.com/kalavagunta-vamshi/DIjkstra-path-planning/blob/main/test%20case.mp4)
+
 
 
