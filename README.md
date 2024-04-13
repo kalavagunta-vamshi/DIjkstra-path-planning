@@ -15,6 +15,7 @@ To run the algorithm, follow these steps:
    pip install matplotlib
 
 
+![Sample Result](https://github.com/kalavagunta-vamshi/DIjkstra-path-planning/raw/main/path.jpg)
 
 
 
